@@ -9,7 +9,7 @@ Hey! I'm a web developer from Mumbai with a growing obsession for all things UI/
 - 🎨 Currently exploring the beautiful intersection of design and development
 - 🌱 Always learning new frameworks and design principles
 - 💻 Passionate about creating user experiences that leave people smiling
-- 🎧 Coding soundtrack: Lo-fi beats or 90s alternative rock
+- 🎧 Coding soundtrack: Lo-fi beats or Party songs 
 - ☕ Powered by: Chai (or occasionally Coffee), creativity, and the occasional deadline panic
 
 When I'm not staring at VS Code, you'll find me sketching interface ideas in my notebook, binge-watching design tutorials, or hunting for the perfect cup of coffee in Mumbai.
