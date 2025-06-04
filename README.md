@@ -45,7 +45,7 @@ When I'm not staring at VS Code, you'll find me sketching interface ideas in my 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jia2005&layout=compact&langs_count=7&theme=material-palenight" />
 </div>
 
-[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jia2005&bg_color=ffffff)]
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jia2005&bg_color=ffffff)](https://github.com/Jia2005)
 
 ## 🤝 Connect With Me
 
