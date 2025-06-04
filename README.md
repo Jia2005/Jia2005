@@ -12,8 +12,6 @@ Hey! I'm a web developer from Mumbai with a growing obsession for all things UI/
 - 🎧 Coding soundtrack: Lo-fi beats or Party songs 
 - ☕ Powered by: Chai (or occasionally Coffee), creativity, and the occasional deadline panic
 
-When I'm not staring at VS Code, you'll find me sketching interface ideas in my notebook, binge-watching design tutorials, or hunting for the perfect cup of coffee in Mumbai.
-
 ## 🚀 Skills
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
