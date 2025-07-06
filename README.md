@@ -43,7 +43,7 @@ Hey! I'm a web developer from Mumbai with a growing obsession for all things UI/
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jia2005&layout=compact&langs_count=7&theme=material-palenight" />
 </div>
 
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jia2005&bg_color=ffffff)](https://github.com/Jia2005)
+<!-- [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jia2005&bg_color=ffffff)](https://github.com/Jia2005) -->
 
 ## 🤝 Connect With Me
 
